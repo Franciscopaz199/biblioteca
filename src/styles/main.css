@@ -1,0 +1,20 @@
+/* definition of variables for the color palette */
+/* fuente de letras Popins */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+:root{
+     --primary-color: #312E81;
+     --secondary-color: #F2AE2E;
+     --tertiary-color: #164773;
+     --quaternary-color: #2B448C;
+     --quinary-color: #266AA6;
+     --senary-color: #2B448C;
+     --septenary-color: #000000;
+     --octonary-color: #FFFFFF;
+}
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+}
