@@ -1,0 +1,80 @@
+
+/* unah-propiedad-valores */
+/* texts */
+/* unah-text-type */
+
+.unah-text-title {
+     font-size: 8rem;
+     font-weight: 600;
+     font-weight: 900;
+     line-height: 6rem;
+}
+
+.unah-text-subtitle {
+     font-size: 3rem;
+     font-weight: 600;
+     font-weight: 900;
+     line-height: 2rem;
+}
+
+.unah-text-buttons {
+     font-size: 2rem;
+     font-weight: 1000;
+     font-weight: 1500;
+     line-height: 2rem;
+}
+
+.unah-text-text {
+     font-size: 1.25rem;
+     font-weight: 400;
+     line-height: 1.75rem;
+}
+
+.unah-text-bold {
+     font-size: 1.25rem;
+     font-weight: 600;
+     line-height: 1.75rem;
+}
+
+/* colors */
+/* unah-color-value */
+
+.unah-color-blue {
+     color: var(--color-blue);
+}
+.unah-color-blue-1 {
+     color: var(--color-blue-1);
+}
+.unah-color-blue-2 {
+     color: var(--color-blue-2);
+}
+.unah-color-blue-3 {
+     color: var(--color-blue-3);
+}
+.unah-color-blue-4 {
+     color: var(--color-blue-4);
+}
+.unah-color-yellow {
+     color: var(--color-yellow);
+}
+.unah-color-black {
+     color: var(--color-black);
+}
+.unah-color-white {
+     color: var(--color-white);
+}
+.unah-color-gray {
+     color: var(--color-gray);
+}
+
+/* positions */
+/* unah-position-value */
+.unah-text-center {
+     text-align: center;
+}
+.unah-text-left {
+     text-align: left;
+}
+.unah-text-right {
+     text-align: right;
+}

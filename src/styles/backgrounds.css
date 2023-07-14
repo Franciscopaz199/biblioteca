@@ -1,0 +1,36 @@
+/* class for the background-color */
+/* unah-bg-color */
+/* unah-bg-color-blue-number */
+
+.unah-bg-blue {
+     background-color: var(--color-blue);
+}
+
+.unah-bg-blue-1 {
+     background-color: var(--color-blue-1);
+}
+
+.unah-bg-blue-2 {
+     background-color: var(--color-blue-2);
+}
+
+.unah-bg-blue-3 {
+     background-color: var(--color-blue-3);
+}
+.unah-bg-blue-4 {
+     background-color: var(--color-blue-4);
+}
+.unah-bg-yellow {
+     background-color: var(--color-yellow);
+}
+.unah-bg-black {
+     background-color: var(--color-black);
+}
+.unah-bg-white {
+     background-color: var(--color-white);
+}
+
+.unah-bg-gray{
+     background-color: var(--color-gray);
+}
+

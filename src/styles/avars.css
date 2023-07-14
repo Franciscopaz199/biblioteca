@@ -1,0 +1,26 @@
+/* definition of variables for the color palette */
+/* fuente de letras Popins */
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+/* definition of variables for the color palette */
+:root {
+        --color-blue: #312E81;
+        --color-yellow: #F2AE2E;
+        --color-blue-1: #2B448C;
+        --color-blue-2: #266AA6;
+        --color-blue-4: #2B448C;
+        --color-blue-3: #164773;
+        --color-black: #333;
+        --color-white: #FFFFFF;
+        --color-gray: #CFCFCF;
+}
+
+/* definition of variables for the font-size */
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        color: var(--color-black);
+}

@@ -1,0 +1,148 @@
+
+/* class for the hovers */
+/* unah-hover-color */
+.unah-hover-blue:hover {
+     background-color: var(--color-blue);
+     color: var(--color-white);
+}
+
+.unah-hover-blue-1:hover {
+     background-color: var(--color-blue-1);
+     color: var(--color-white);
+}
+
+.unah-hover-blue-2:hover {
+     background-color: var(--color-blue-2);
+     color: var(--color-white);
+}
+
+.unah-hover-blue-3:hover {
+     background-color: var(--color-blue-3);
+     color: var(--color-white);
+}
+
+.unah-hover-blue-4:hover {
+     background-color: var(--color-blue-4);
+     color: var(--color-white);
+}
+
+.unah-hover-yellow:hover {
+     background-color: var(--color-yellow);
+     color: var(--color-white);
+}
+
+.unah-hover-black:hover {
+     background-color: var(--color-black);
+     color: var(--color-white);
+}
+
+.unah-hover-white:hover {
+     background-color: var(--color-white);
+     color: var(--color-black);
+}
+.unah-hover-gray:hover {
+     background-color: var(--color-gray);
+     color: var(--color-white);
+}
+
+/* class for the border */
+/* unah-b-color */
+.unah-b-blue {
+     border: 1px solid var(--color-blue);
+}
+
+.unah-b-blue-1 {
+     border: 1px solid var(--color-blue-1);
+}
+
+.unah-b-blue-2 {
+     border: 1px solid var(--color-blue-2);
+}
+
+.unah-b-blue-3 {
+     border: 1px solid var(--color-blue-3);
+}
+
+.unah-b-blue-4 {
+     border: 1px solid var(--color-blue-4);
+}
+
+.unah-b-yellow {
+     border: 1px solid var(--color-yellow);
+}
+
+.unah-b-black {
+     border: 1px solid var(--color-black);
+}
+
+.unah-b-white {
+     border: 1px solid var(--color-white);
+}
+.unah-b-gray {
+     border: 1px solid var(--color-gray);
+}
+
+
+/* class for the border-color hover*/
+/* unah-b-hover-color */
+.unah-b-hover-blue:hover {
+     border: 1px solid var(--color-blue);
+}
+
+.unah-b-hover-blue-1:hover {
+     border: 1px solid var(--color-blue-1);
+}
+
+.unah-b-hover-blue-2:hover {
+     border: 1px solid var(--color-blue-2);
+}
+
+.unah-b-hover-blue-3:hover {
+     border: 1px solid var(--color-blue-3);
+}
+
+.unah-b-hover-blue-4:hover {
+     border: 1px solid var(--color-blue-4);
+}
+
+.unah-b-hover-yellow:hover {
+     border: 1px solid var(--color-yellow);
+}
+
+.unah-b-hover-black:hover {
+     border: 1px solid var(--color-black);
+}
+
+.unah-b-hover-white:hover {
+     border: 1px solid var(--color-white);
+}
+
+.unah-b-hover-gray:hover {
+     border: 1px solid var(--color-gray);
+}
+
+/* class for the background-color */
+
+
+/* class for the border-radius */
+/* unah-br-value */
+
+.unah-br-2 {
+     border-radius: 0.5rem;
+}
+
+.unah-br-4 {
+     border-radius: 1rem;
+}
+
+.unah-br-6 {
+     border-radius: 1.5rem;
+}
+
+.unah-br-8 {
+     border-radius: 2rem;
+}
+
+.unah-br-10 {
+     border-radius: 2.25rem;
+}
