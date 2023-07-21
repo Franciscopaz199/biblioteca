@@ -12,15 +12,6 @@
         --color-blue-3: #164773;
         --color-black: #333;
         --color-white: #FFFFFF;
-        --color-gray: #CFCFCF;
+        --color-gray: #e6e6e6;
 }
 
-/* definition of variables for the font-size */
-* {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: 'Poppins', sans-serif;
-        font-style: normal;
-        color: var(--color-black);
-}

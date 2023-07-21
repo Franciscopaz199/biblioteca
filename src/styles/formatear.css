@@ -1,0 +1,13 @@
+.row{
+     margin-right: 0px !important;
+}
+ul{
+     margin-bottom: 0px !important;
+}
+
+a{
+     text-decoration: none !important;
+     color: var(--color-black) !important;
+     cursor: pointer;
+     align-items: center;
+}

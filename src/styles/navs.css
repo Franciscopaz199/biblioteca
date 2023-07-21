@@ -1,0 +1,22 @@
+.unah-nav-link{
+     text-decoration: none;
+     font-size: 1.75rem;
+     transition: all 0.3s ease-in-out;
+     cursor: pointer;
+}
+
+.unah-nav-content{
+     display: flex;
+     flex-direction: column; 
+     min-width: 350px;
+     max-width: 350px;
+}
+
+
+
+
+   
+   /* Cambiamos el pseudo-elemento cuando el mouse está encima del enlace */
+   .unah-nav-border-link:hover{
+          border-bottom: 3px solid;
+   }

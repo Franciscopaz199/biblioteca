@@ -138,6 +138,11 @@
 
 /* class for width */
 /* unah-w-value */
+
+.unah-w-1{
+     width: 2vw;
+}
+
 .unah-w-2 {
      width: 10%;
 }
@@ -178,4 +183,44 @@
 }
 
 
+/* class for min-width */
+/* unah-mw-value */
+.unah-mw-1 {
+     min-width: 2vw;
+}
+
+
+.unah-mw-2 {
+     min-width: 10vw;
+}
+.unah-mw-4 {
+     min-width: 20vw;
+}
+.unah-mw-6 {
+     min-width: 30vw;
+}
+.unah-mw-8 {
+     min-width: 40vw;
+}
+.unah-mw-10 {
+     min-width: 50vw;
+}
+.unah-mw-12 {
+     min-width: 60vw;
+}
+.unah-mw-14 {
+     min-width: 70vw;
+}
+.unah-mw-16 {
+     min-width: 80vw;
+}
+.unah-mw-18 {
+     min-width: 90vw;
+}
+.unah-mw-20 {
+     min-width: 100vw;
+}
+
+/* class for max-width */
+/* unah-mw-value */
 

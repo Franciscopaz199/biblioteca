@@ -42,8 +42,11 @@
 }
 .unah-hover-gray:hover {
      background-color: var(--color-gray);
-     color: var(--color-white);
+     color: var(--color-black);
 }
+
+
+
 
 /* class for the border */
 /* unah-b-color */
@@ -81,6 +84,121 @@
 .unah-b-gray {
      border: 1px solid var(--color-gray);
 }
+
+.unah-bc-blue {
+     border-color: var(--color-blue) !important;
+}
+
+.unah-bc-blue-1 {
+     border-color: var(--color-blue-1) !important;
+}
+
+.unah-bc-blue-2 {
+     border-color: var(--color-blue-2) !important;
+}
+
+.unah-bc-blue-3 {
+     border-color: var(--color-blue-3) !important;
+}
+
+.unah-bc-blue-4 {
+     border-color: var(--color-blue-4) !important;
+}
+
+.unah-bc-yellow {
+     border-color: var(--color-yellow) !important;
+}
+
+.unah-bc-black {
+     border-color: var(--color-black) !important;
+}
+
+.unah-bc-white {
+     border-color: var(--color-white) !important;
+}
+
+.unah-bc-gray {
+     border-color: var(--color-gray) !important;
+}
+
+.unah-bb-2 {
+     border-bottom: 1px solid ;
+}
+
+.unah-bb-4 {
+     border-bottom: 4px solid ;
+}   
+
+.unah-bb-6 {
+     border-bottom: 6px solid ;
+}
+
+.unah-bb-8 {
+     border-bottom: 8px solid ;
+}
+
+.unah-bb-10 {
+     border-bottom: 10px solid ;
+}
+
+
+.unah-bt{
+     border-top: 2px solid ;
+}
+
+.unah-bl {
+     border-left: 2px solid ;
+}
+
+.unah-br {
+     border-right: 2px solid ;
+}
+
+
+.unah-br-2{
+     border-radius: 10%;
+}
+
+.unah-br-4{
+     border-radius: 20%;
+}
+
+.unah-br-6{
+     border-radius: 30%;
+}
+
+.unah-br-8{
+     border-radius: 40%;
+}
+
+.unah-br-10{
+     border-radius: 50%;
+}
+
+.unah-br-12{
+     border-radius: 60%;
+}
+
+.unah-br-14{
+     border-radius: 70%;
+}
+
+.unah-br-16{
+     border-radius: 80%;
+}
+
+.unah-br-18{
+     border-radius: 90%;
+}
+
+.unah-br-20{
+     border-radius: 100%;
+}
+
+
+
+
+
 
 
 /* class for the border-color hover*/
