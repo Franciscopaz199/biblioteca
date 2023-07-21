@@ -31,3 +31,22 @@
      flex-direction: column;
 }
 
+.unah-f-grap{
+     flex-wrap: wrap;
+}
+
+.unah-f-grap-r{
+     flex-wrap: wrap-reverse;
+}
+.unah-f-grap-c{
+     flex-wrap: column wrap;
+}
+.unah-f-grap-n{
+     flex-wrap: nowrap;
+}
+
+.unah-f-grap-i{
+     flex-wrap: inherit;
+}
+
+

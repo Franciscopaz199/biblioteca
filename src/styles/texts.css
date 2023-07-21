@@ -12,8 +12,8 @@
 
 .unah-text-subtitle {
      font-size: 3rem;
-     font-weight: 600;
-     font-weight: 900;
+     font-weight: 600 !important;
+     font-weight: 900 !important;
      line-height: 2rem;
 }
 
@@ -40,7 +40,7 @@
 /* unah-color-value */
 
 .unah-color-blue {
-     color: var(--color-blue) !important;
+     color: var(--color-blue) ;
 }
 .unah-color-blue-1 {
      color: var(--color-blue-1);
@@ -61,7 +61,7 @@
      color: var(--color-black);
 }
 .unah-color-white {
-     color: var(--color-white) !important;
+     color: var(--color-white) ;
 }
 .unah-color-gray {
      color: var(--color-gray);
