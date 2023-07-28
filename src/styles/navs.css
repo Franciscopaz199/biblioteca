@@ -8,8 +8,7 @@
 .unah-nav-content{
      display: flex;
      flex-direction: column; 
-     min-width: 350px;
-     max-width: 350px;
+
 }
 
 
@@ -49,75 +48,12 @@
      display: block;
 }
 
-
-
-
-
-
-
 .nave-menu {
      display: flex;
-     margin-right: 40px;
      list-style: none;
-   }
-   
-   .nave-menu-item {
-     font-size: 16px;
-     margin: 0 10px;
-     line-height: 80px;
-     text-transform: uppercase;
-     width: max-content;
-     
-   }
-   
-   .nave-menu-link {
-     padding: 8px 14px;
-     border-radius: 1px;
-     border-radius: 20px;
-     color: rgb(11, 44, 82);
-   }
-   
-   .nave-menu-link:hover{
-     border: 1px solid rgb(11, 44, 82);
-     transition: 0.5s;
-   
-   }
-   .nave-menu-link_active {
-     background-color: rgba(6, 21, 38, 1.0);
-     color: white;
-     transition: 0.5s;
-   }
-   
-  
-   .unah-nav-ocultar{
-      display: none;
-   }
+}
 
-   /* TOGGLE */
-   .nave-toggle {
-     color: rgba(6, 21, 38, 1.0);
-
-     border: none;
-     font-size: 30px;
-     padding: 0 20px;
-     line-height: 60px;
-     cursor: pointer;
-   
-     display: none;
-   }
-   .bodyPage{
-       margin-top: 80px;
-       height: calc(100vh - 80px);
-   }
-   .carousel-item{
-     height: calc(100vh - 80px);;
-     background: rgba(6, 21, 38, 1.0);
-   }
-   .unah-nav-responsive{
-     display: none;
-   }
-
-@media (max-width: 768px) {
+@media (max-width: 868px) {
   .unah-nav-responsive{
       display: flex;
       position: fixed;
@@ -128,27 +64,21 @@
     
      flex-direction: column;
      }
-  .nave-menu {
-     flex-direction: column;
-     margin: 0;
-     background-color: var(--color-white);
+  .unah-nave-menu {
+
      position: fixed !important;
      top: 7vh !important;
-     width: 100%;
-     padding: 20px 0;
-     color: white;
-     height: calc(100% - 60px);
-     overflow-y: auto;
- 
      left: 100%;
+     overflow-y: auto;
      transition: left 0.3s;
-
      display: flex;
-     flex-direction: column;
-
      position: relative;
-     min-width: none;
-     max-width: 70%;
+   }
+
+   .unah-nave-menu_visible{
+      left: 0;
+
+
    }
  
    .nave-menu-item {

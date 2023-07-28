@@ -34,3 +34,8 @@
      background-color: var(--color-gray);
 }
 
+
+.unah-bg-black-1 {
+   background-color: rgba(0, 0, 0, 0.2);
+}
+

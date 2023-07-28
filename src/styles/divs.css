@@ -5,6 +5,16 @@
      flex-wrap: wrap;
 
 }
+.unah-div-formulario{
+        
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        box-sizing: border-box;
+
+        min-width: 350px;
+        max-width: 500px;
+}
 
 .unah-container{
         width: 100%;
@@ -80,6 +90,15 @@
         width: 100%;
 }
 
+@media screen and (max-width: 868px){
+        .unah-div-formulario{
+                min-width: none;
+                max-width: none;
+
+                width: 100%;
+                padding: 0 1rem;
+        }
+}
 
 
 

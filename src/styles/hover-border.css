@@ -264,3 +264,91 @@
 .unah-br-10 {
      border-radius: 2.25rem;
 }
+
+
+.unah-br-12 {
+     border-radius: 2.5rem;
+}
+
+.unah-br-14 {
+     border-radius: 2.75rem;
+}
+
+.unah-br-16 {
+     border-radius: 3rem;
+}
+
+.unah-br-18 {
+     border-radius: 3.25rem;
+}
+
+.unah-br-20 {
+     border-radius: 3.5rem;
+}
+
+/* class for the mobile */
+/* unah-m-value-m */
+
+
+@media screen and (max-width: 868px) {
+     .unah-b-m{
+          border: none !important;
+     }
+
+     .unah-bb-m{
+          border-bottom: none !important;
+     }
+
+     .unah-bt-m{
+          border-top: none !important;
+     }
+
+     .unah-bl-m{
+          border-left: none !important;
+     }
+
+     .unah-br-m{
+          border-right: none !important;
+     }
+
+     .unah-br-2-m{
+          border-radius: 0.5rem !important;
+     }
+
+     .unah-br-4-m{
+          border-radius: 1rem !important;
+     }
+
+     .unah-br-6-m{
+          border-radius: 1.5rem !important;
+     }
+
+     .unah-br-8-m{
+          border-radius: 2rem !important;
+     }
+
+     .unah-br-10-m{
+          border-radius: 2.25rem !important;
+     }
+
+     .unah-br-12-m{
+          border-radius: 2.5rem !important;
+     }
+
+     .unah-br-14-m{
+          border-radius: 2.75rem !important;
+     }
+
+     .unah-br-16-m{
+          border-radius: 3rem !important;
+     }
+
+     .unah-br-18-m{
+          border-radius: 3.25rem !important;
+     }
+
+     .unah-br-20-m{
+          border-radius: 3.5rem !important;
+     }
+
+}

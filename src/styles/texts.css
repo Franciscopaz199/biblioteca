@@ -11,7 +11,7 @@
 }
 
 .unah-text-subtitle {
-     font-size: 3rem;
+     font-size: 2.6rem;
      font-weight: 600 !important;
      font-weight: 900 !important;
      line-height: 2rem;
@@ -27,7 +27,8 @@
 .unah-text-text {
      font-size: 1.25rem;
      font-weight: 400;
-     line-height: 1.75rem;
+     line-height: 2.15rem;
+     text-align: justify;
 }
 
 .unah-text-bold {
@@ -95,7 +96,6 @@
           font-size: 2.5rem;
           font-weight: 600;
           font-weight: 900;
-          line-height: 1.5rem;
      }
 
      .unah-text-buttons {
@@ -133,7 +133,6 @@
           font-size: 2rem;
           font-weight: 600;
           font-weight: 900;
-          line-height: 1rem;
      }
 
      .unah-text-buttons {

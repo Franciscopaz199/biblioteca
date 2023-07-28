@@ -1,14 +1,24 @@
-const naveToggle = document.querySelector(".unah-button-menu");
-const naveMenu = document.querySelector(".nave-menu");
+/* recuperar todos los elementos con la clase "unah-button-action" */
 
-naveToggle.addEventListener("click", () => {
-  
-  naveMenu.classList.toggle("nave-menu_visible");
+const unahButtonAction = document.querySelectorAll(".unah-button-action");
 
-  if (naveMenu.classList.contains("nave-menu_visible")) {
-    naveToggle.setAttribute("aria-label", "Cerrar menú");
-    
-  } else {
-    naveToggle.setAttribute("aria-label", "Abrir menú");
-  }
+/* recorrer todos los elementos con la clase "unah-button-action" */
+
+unahButtonAction.forEach((unahButtonAction) => {
+  unahButtonAction.addEventListener("click", () => {
+    const naveMenu = document.getElementById(unahButtonAction.getAttribute('divid'));
+    naveMenu.classList.toggle("unah-nave-menu_visible");
+  });
 });
+
+const unahOcultar = document.querySelectorAll(".unah-ocultar");
+/* recorrer todos los elementos con la clase "unah-button-action" */
+unahOcultar.forEach((unahOcultar) => {
+  unahOcultar.addEventListener("click", () => {
+    const naveMenu = document.getElementById(unahOcultar.getAttribute('unah-ocultar-id'));
+    naveMenu.classList.toggle("unah-invisible");
+  });
+});
+
+
+

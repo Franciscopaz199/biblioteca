@@ -13,3 +13,25 @@
 .unah-d-n{
      display: none;
 }
+
+@media screen and (max-width: 868px) {
+     .unah-d-f-m{
+          display: flex !important;
+     }    
+
+     .unah-d-b-m{
+          display: block !important;
+     }
+
+     .unah-d-i-m{
+          display: inline !important;
+     }
+
+     .unah-d-ib-m{
+          display: inline-block !important;
+     }
+
+     .unah-d-n-m{
+          display: none !important;
+     }
+}

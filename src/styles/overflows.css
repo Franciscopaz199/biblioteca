@@ -1,0 +1,48 @@
+.unah-ovf-hidden {
+  overflow: hidden;
+}
+
+.unah-ovf-auto {
+  overflow: auto;
+}
+
+.unah-ovf-visible {
+  overflow: visible;
+}
+
+.unah-ovf-scroll {
+  overflow: scroll;
+}
+
+.unah-ovf-x-hidden {
+  overflow-x: hidden;
+}
+
+.unah-ovf-x-auto {
+  overflow-x: auto;
+}
+
+.unah-ovf-x-visible {
+  overflow-x: visible;
+}
+
+.unah-ovf-x-scroll {
+  overflow-x: scroll;
+}
+
+.unah-ovf-y-hidden {
+  overflow-y: hidden;
+}
+
+.unah-ovf-y-auto {
+  overflow-y: auto;
+}
+
+.unah-ovf-y-visible {
+  overflow-y: visible;
+}
+
+.unah-ovf-y-scroll {
+  overflow-y: scroll;
+}
+

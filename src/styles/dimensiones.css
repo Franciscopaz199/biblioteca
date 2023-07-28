@@ -34,6 +34,11 @@
 .unah-h-20vh {
      height: 100vh;
 }
+
+.unah-h-21vh {
+     height: 93vh;
+}
+
 .unah-h-2 {
      height: 10%;
 }
@@ -224,3 +229,178 @@
 /* class for max-width */
 /* unah-mw-value */
 
+@media screen and (max-width: 868px) {
+     .unah-h-1vh-m {
+          height: 7vh !important;
+     }
+     .unah-h-2vh-m {
+          height: 10vh !important;
+     }
+     .unah-h-4vh-m {
+          height: 20vh !important;
+     }
+     .unah-h-6vh-m {
+          height: 30vh !important;
+     }
+
+     .unah-h-8vh-m {
+          height: 40vh !important;
+     }
+
+     .unah-h-10vh-m {
+          height: 50vh !important;
+     }
+
+     .unah-h-12vh-m {
+          height: 60vh !important;
+     }
+
+     .unah-h-14vh-m {
+          height: 70vh !important;
+     }
+
+     .unah-h-16vh-m {
+          height: 80vh !important;
+     }
+
+     .unah-h-18vh-m {
+          height: 90vh !important;
+     }
+
+     .unah-h-20vh-m {
+          height: 100vh !important;
+     }
+
+     .unah-h-21vh-m {
+          height: 93vh !important;
+     }
+
+     .unah-h-2-m {
+          height: 10% !important;
+     }
+
+     .unah-h-4-m {
+          height: 20% !important;
+     }
+
+     .unah-h-6-m {
+          height: 30% !important;
+     }
+
+     .unah-h-8-m {
+          height: 40% !important;
+     }
+
+     .unah-h-10-m {
+          height: 50% !important;
+     }
+
+     .unah-h-12-m {
+          height: 60% !important;
+     }
+
+     .unah-h-14-m {
+          height: 70% !important;
+     }
+
+     .unah-h-16-m {
+          height: 80% !important;
+     }
+
+     .unah-h-18-m {
+          height: 90% !important;
+     }
+
+     .unah-h-20-m {
+          height: 100% !important;
+     }
+
+     .unah-h-21-m {
+          height: 93% !important;
+     }
+
+     .unah-hh-2-m {
+          max-height: 10vh !important;
+     }
+
+     .unah-hh-4-m {
+          max-height: 20vh !important;
+     }
+
+     .unah-hh-6-m {
+          max-height: 30vh !important;
+     }
+
+     .unah-hh-8-m {
+          max-height: 40vh !important;
+     }
+
+     .unah-hh-10-m {
+          max-height: 50vh !important;
+     }
+
+     .unah-hh-12-m {
+          max-height: 60vh !important;
+     }
+
+     .unah-hh-14-m {
+          max-height: 70vh !important;
+     }
+
+     .unah-hh-16-m {
+          max-height: 80vh !important;
+     }
+
+     .unah-hh-18-m {
+          max-height: 90vh !important;
+     }
+
+     .unah-hh-20-m {
+          max-height: 100vh !important;
+     }
+
+     .unah-w-1-m {
+          width: 2vw !important;
+     }
+
+     .unah-w-2-m {
+          width: 10% !important;
+     }
+
+     .unah-w-4-m {
+          width: 20% !important;
+     }
+
+     .unah-w-6-m {
+          width: 30% !important;
+     }
+
+     .unah-w-8-m {
+          width: 40% !important;
+     }
+
+     .unah-w-10-m {
+          width: 50% !important;
+     }
+
+     .unah-w-12-m {
+          width: 60% !important;
+     }
+
+     .unah-w-14-m {
+          width: 70% !important;
+     }
+
+     .unah-w-16-m {
+          width: 80% !important;
+     }
+
+     .unah-w-18-m {
+          width: 90% !important;
+     }
+
+     .unah-w-20-m {
+          width: 100% !important;
+     }
+
+}

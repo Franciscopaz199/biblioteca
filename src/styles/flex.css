@@ -1,8 +1,5 @@
 /* Flex */
 /* unah-d-f */
-.unah-d-f{
-     display: flex;
-}
 .unah-f-d-c{
      flex-direction: column;
 }
@@ -27,6 +24,34 @@
 .unah-aic{
      align-items: center;
 }
+.unah-aifs{
+     align-items: flex-start;
+}
+.unah-aife{
+     align-items: flex-end;
+}
+.unah-aib{
+     align-items: baseline;
+}
+.unah-ais{
+     align-items: stretch;
+}
+.unah-ai{
+     align-items: inherit;
+}
+.unah-f-w{
+     flex-wrap: wrap;
+}
+.unah-f-wn{
+     flex-wrap: nowrap;
+}
+.unah-f-wr{
+     flex-wrap: wrap-reverse;
+}
+.unah-f-wi{
+     flex-wrap: inherit;
+}
+
 .unah-f-d-c{
      flex-direction: column;
 }
@@ -50,3 +75,92 @@
 }
 
 
+@media screen and (max-width: 868px) {
+     .unah-f-d-c-m{
+          flex-direction: column !important;
+     }
+     .unah-jcc-m{
+          justify-content: center !important;
+     }
+     .unah-jcsb-m{
+          justify-content: space-between !important;
+     }
+
+     .unah-jcfe-m{
+          justify-content: flex-end !important;
+     }
+
+     .unah-jcfs-m{
+          justify-content: flex-start !important;
+     }
+
+     .unah-jcsa-m{
+          justify-content: space-around !important;
+     }
+
+     .unah-jcse-m{
+          justify-content: space-evenly !important;
+     }
+
+     .unah-aic-m{
+          align-items: center !important;
+     }
+
+     .unah-aifs-m{
+          align-items: flex-start !important;
+     }
+
+     .unah-aife-m{
+          align-items: flex-end !important;
+     }
+
+     .unah-aib-m{
+          align-items: baseline !important;
+     }
+
+     .unah-ais-m{
+          align-items: stretch !important;
+     }
+
+     .unah-ai-m{
+          align-items: inherit !important;
+     }
+
+     .unah-f-w-m{
+          flex-wrap: wrap !important;
+     }
+
+     .unah-f-wn-m{
+          flex-wrap: nowrap !important;
+     }
+
+     .unah-f-wr-m{
+          flex-wrap: wrap-reverse !important;
+     }
+
+     .unah-f-wi-m{
+          flex-wrap: inherit !important;
+     }
+
+     .unah-f-grap-m{
+          flex-wrap: wrap !important;
+     }
+
+     .unah-f-grap-r-m{
+          flex-wrap: wrap-reverse !important;
+     }
+
+
+     .unah-f-grap-c-m{
+          flex-wrap: column wrap !important;
+     }
+
+     .unah-f-grap-n-m{
+          flex-wrap: nowrap !important;
+     }
+
+     .unah-f-grap-i-m{
+          flex-wrap: inherit !important;
+     }
+
+}
